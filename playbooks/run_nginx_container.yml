@@ -51,7 +51,7 @@
         published_ports:
           - 80:80
         volumes:
-          - ../html:/usr/share/nginx/html:ro
+          - /home/vagrant/html:/usr/share/nginx/html:ro
 
 
 
