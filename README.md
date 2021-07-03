@@ -42,4 +42,4 @@ _Virtual machine_
 ![](screenshots/Screenshot_20210702_184353.png)
 
 **ASCIINEMA**
-[![asciicast](https://asciinema.org/a/1bU6j4Krh3HOotf3IAjpt7ago.svg)](https://asciinema.org/a/1bU6j4Krh3HOotf3IAjpt7ago?speed=4)
+[![asciicast](https://asciinema.org/a/1bU6j4Krh3HOotf3IAjpt7ago.svg)](https://asciinema.org/a/1bU6j4Krh3HOotf3IAjpt7ago?speed=4&autoplay=1)
